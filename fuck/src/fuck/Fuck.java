@@ -6,7 +6,7 @@ package pizza;
 import javax.swing.*;
 /**
  *
- * @author Abgao
+ * @author CISCO 01
  */
 public class Pizza {
 
@@ -24,7 +24,7 @@ int pizza,  money,   // first number to add
 
 //read in the first number from user as a string 
 inputNumber = 
-        JOptionPane.showInputDialog ( "Enter first integer" ); 
+        JOptionPane.showInputDialog ( "Enter $$$" ); 
 
 
 //convert numbers from type String to type int 
