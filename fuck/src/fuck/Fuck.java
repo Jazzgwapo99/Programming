@@ -6,7 +6,7 @@ package pizza;
 import javax.swing.*;
 /**
  *
- * @author CISCO 01
+ * @author Abgao
  */
 public class Pizza {
 
@@ -37,7 +37,7 @@ change = money - burger -softdrink - pizza;
 
 //display the results 
 JOptionPane.showMessageDialog ( 
-null, "The sum is " + change, "Results", 
+null, "Your Chnage is " + change, "Pesoses", 
 JOptionPane.PLAIN_MESSAGE); 
 System.exit ( 0 ); //ends the program 
     }
